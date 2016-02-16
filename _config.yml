@@ -1,0 +1,28 @@
+name: Employee Advocacy
+favicon: null
+layout_spectrum: 0.6692945908289403
+typography_spectrum: 0.8248936394229531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4040810442529619
+  lightness: 0.7644395856186748
+  saturation: 0.630021121352911
+  rhythmicContrast: 0.5711962636560202
+purpose: []
